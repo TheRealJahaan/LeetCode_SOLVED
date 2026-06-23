@@ -5,6 +5,8 @@ class Solution {
         int row = 0 ;
         int col = n -1 ;
 
+//      while(row < m || col > 0 )
+//               or
         while(row < m && col >= 0 ){
                 if(arr[row][col] > target){
                     col--;
