@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
