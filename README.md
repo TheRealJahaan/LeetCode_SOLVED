@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
