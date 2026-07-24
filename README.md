@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0041-first-missing-positive) |
+| [0078-subsets](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0268-missing-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0645-set-mismatch) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
