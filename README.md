@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0216-combination-sum-iii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0645-set-mismatch) |
