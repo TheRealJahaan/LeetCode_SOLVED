@@ -6,10 +6,12 @@ class Solution {
             map.put(num , map.getOrDefault(num , 0 ) + 1 ) ;
 
         }
+
         for(Map.Entry<Integer , Integer> entry : map.entrySet()){
             int element = entry.getKey() ;
             int freq = entry.getValue() ;
-            if(freq == 1 ){
+
+            if(freq == 1) {
                 return element ;
             }
         }
