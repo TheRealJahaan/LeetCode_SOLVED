@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0240-search-a-2d-matrix-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0216-combination-sum-iii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
