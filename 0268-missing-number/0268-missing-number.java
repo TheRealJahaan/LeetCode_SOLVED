@@ -1,17 +1,7 @@
 class Solution{
     public int missingNumber(int arr[]){
-        int i = 0 ;
-        while(i < arr.length ){
-            int index = arr[i];
 
-            if( arr[i] < arr.length && arr[i] != arr[index]){
-                swap(arr , i , index) ;
-            }
-            else{
-                i++ ;
-            }
-        }
-
+        Arrays.sort(arr) ;
         for(int indx = 0 ; indx <arr.length ; indx++){
             
             if(arr[indx] != indx){
