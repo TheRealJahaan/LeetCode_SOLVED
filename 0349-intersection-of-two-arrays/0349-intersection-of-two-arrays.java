@@ -25,9 +25,9 @@ class Solution {
         }                      
 
         for(int i = 0 ; i < nums1.length ; i++){
-            if(set.contains(nums1[i])){
-                if(!list.contains(nums1[i])){
-                    list.add(nums1[i]) ;
+            if(set.contains(nums1[i])){// this line is for -> common check karne ke liye 
+                if(!list.contains(nums1[i])){ // ye line ye ki duplicate na aa jaye list me 
+                    list.add(nums1[i]) ; // fir to add kardo list me 
                 }
             }
 
