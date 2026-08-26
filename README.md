@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
