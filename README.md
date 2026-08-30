@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0090-subsets-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0189-rotate-array) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
