@@ -22,7 +22,8 @@ class Solution {
 
         // _________________________________________________
         // THE ABOVE CODE IS TIME LIMIT EXCEDDED
-
+        // T.C -> O(n)
+        // S.C -> O(1) 
         int j = 0 ;
         for(int i = 0 ; i< n ;i++){
             if(arr[i] != 0 ){
