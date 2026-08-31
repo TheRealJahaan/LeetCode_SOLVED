@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0704-binary-search) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
