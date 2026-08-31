@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0443-string-compression) |
+| [0977-squares-of-a-sorted-array](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
