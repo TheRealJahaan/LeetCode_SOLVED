@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/1089-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
