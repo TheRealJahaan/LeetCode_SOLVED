@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0349-intersection-of-two-arrays) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
