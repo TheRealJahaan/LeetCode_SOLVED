@@ -10,6 +10,7 @@
  */
 class Solution {
     public ListNode Midpoint(ListNode head){
+        // Finding the Mid Point Using the tortoise Hare algorithm
         ListNode fast = head ;
         ListNode slow = head ;
 
