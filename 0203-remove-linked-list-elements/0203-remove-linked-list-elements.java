@@ -11,7 +11,7 @@
 class Solution {
     public ListNode removeElements(ListNode head, int val) {
         ListNode temp = head ;
-        // Ye saare same elements ka case 
+        // Ye saare same elements ka case ya fir starting elements matching ka case
         while(head != null && head.val == val ){
             head = head.next ;
         }
