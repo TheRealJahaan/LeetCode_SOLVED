@@ -14,24 +14,24 @@ class Solution {
         if(currentNode == null){
             return prevNode ;
         }
-
         // Processing
+
         ListNode forwardNode = currentNode.next ;
         currentNode.next = prevNode ;
         prevNode = currentNode ;
         currentNode = forwardNode ;
+        // ______RECURSSION______
+        ListNode ans = solve(prevNode , currentNode) ;
+        return ans ;
+
+    }
+    public ListNode reverseList(ListNode head) {
+        // Creating a Solve methiod that is recurssion 
+        // Now in the recurssion i have to solve only one and the other Cases solved by recurssion 
+        ListNode prevNode = null ;
+        ListNode currentNode = head ;
 
         ListNode ans = solve(prevNode , currentNode ) ;
         return ans ;
-    }
-    public ListNode reverseList(ListNode head) {
-        // -----USING REcurssive Method----
-    ListNode prevNode = null ;
-    ListNode currentNode = head ;
-    // ListNoe forwardNode = currentNode.next ;
-
-    ListNode ans = solve(prevNode , currentNode ) ;
-    return ans ;
-
     }
 }
