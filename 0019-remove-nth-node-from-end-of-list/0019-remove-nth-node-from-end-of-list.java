@@ -39,6 +39,8 @@ class Solution {
         }
         // ListNode current = prev.next ;
         // ListNode forward = prev.next.next ;
+        // Hamne terms use nhi kiye yaha
+    
         prev.next = prev.next.next ;
 
         return reverseLL(head); 
