@@ -10,26 +10,50 @@
  */
 class Solution {
     public ListNode mergeNodes(ListNode head) {
-        ListNode temp = head ;
-        int sum = 0 ;
-        ListNode newHead = new ListNode(0) ;
-        ListNode newTail = newHead ;
-        while(temp != null){
-            while(temp.val != 0){
-                sum = sum + temp.val ;
-                temp = temp.next; 
-            }
+        // ListNode temp = head ;
+        // ListNode newHead = new ListNode(0) ;
+        // ListNode newTail = newHead ;
+        // int sum = 0 ;
+        // while(temp != null){
+        //     while(temp.val != 0 ){
+        //         sum = sum + temp.val ;
+        //         temp = temp.next ;
+        //     }
 
-            if(sum > 0 ){
-                newTail.next = new ListNode(sum) ;
-                newTail = newTail.next ;
-            }
+        //     if(sum > 0) {
+        //         newTail.next = new ListNode(sum) ;
+        //         newTail = newTail.next ;
+        //     }
+        //     sum = 0 ;
+        //     temp = temp.next ;
+        // }
+        // return newHead.next ;
 
-            sum = 0 ;
-            temp = temp.next ;
-        }
+        // =========== OPTIMAL SOLUTION ====================== O(1) ---> IN PLACE solution 
+
+        // read --> Node for traversal 
+        // write --> Node for value insert 
+
+        //    Read aage badega aur jese hi 0 milega sum ko write me daal dega 
+
+        ListNode write = head ;
+        ListNode read = head.next ;
+
         
-        return newHead.next ;
+        while(read != null){
+            int sum = 0 ;
 
+            while(read.val != 0 ){
+                sum = sum + read.val ;
+                read = read.next ;
+            }
+            write.val = sum ;
+
+            write.next = read.next ;
+            read = read.next ;
+            write = write.next ;
+        }
+        return head ;
     }
 }
+
