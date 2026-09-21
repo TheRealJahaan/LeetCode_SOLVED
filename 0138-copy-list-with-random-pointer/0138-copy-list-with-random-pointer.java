@@ -1,0 +1,68 @@
+/*
+// Definition for a Node.
+class Node {
+    int val;
+    Node next;
+    Node random;
+
+    public Node(int val) {
+        this.val = val;
+        this.next = null;
+        this.random = null;
+    }
+}
+*/
+
+class Solution {
+    public Node copyRandomList(Node head) {
+        if(head== null){
+            return null ;
+        }
+
+        // Step 1 :- clone nodes add
+        Node temp = head ;
+
+        while( temp != null ){
+            Node cloneNode = new Node(temp.val );
+            cloneNode.next = temp.next ;
+            temp.next = cloneNode ;
+            temp = cloneNode.next ;
+        }
+        // Step 2: - Copy random pointers 
+
+        temp = head ;
+        while(temp != null){
+            Node oldNode = temp ;
+            Node newNode = temp.next ;
+
+            // Obs 
+            if(oldNode.random != null){
+                newNode.random = oldNode.random.next ;
+            }             
+
+            temp = newNode.next;
+
+        }
+
+        // Step 3 : - detach the list 
+
+        temp = head ;
+        Node ansListHead = head.next ;
+
+        while(temp != null){
+            Node oldNode = temp ;
+            Node cloneNode = temp.next ;
+
+            // Ab detach karna he -> LOGIC 
+            oldNode.next = cloneNode.next ;
+            if(cloneNode.next != null){
+                cloneNode.next = cloneNode.next.next ;
+            }
+            // Temp ko move karo 
+            temp = temp.next ;
+
+        }
+
+        return ansListHead ;
+    }
+}
