@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0704-binary-search) |
+| [0941-valid-mountain-array](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/1295-find-numbers-with-even-number-of-digits) |
