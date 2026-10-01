@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0704-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/1089-duplicate-zeros) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TheRealJahaan/LeetCode_SOLVED/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
